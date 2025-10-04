@@ -1,6 +1,7 @@
-Xpenda: Smart Expense Management
+*/Xpenda: Smart Expense Management*/
 
 🌟 Overview
+
 Xpenda is a modern, intelligent expense management system designed to eliminate the common pain points of manual expense reimbursement: long processing times, errors, and lack of transparency. It centralizes expense submission, automates multi-level approvals, and supports flexible, conditional approval rules, allowing companies to manage their finances efficiently and with high compliance.
 
 ✨ Key Features
