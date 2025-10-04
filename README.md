@@ -1,4 +1,4 @@
-*/Xpenda: Smart Expense Management*/
+Xpenda: Smart Expense Management
 
 🌟 Overview
 
